@@ -12,14 +12,14 @@ const AboutHeader: React.FC = () => (
     <img
       width={128}
       src="/logo.png"
-      title="OIerDb"
+      title="OMerDb"
       style={{ margin: '0 auto', display: 'block' }}
     />
-    <h1 style={{ textAlign: 'center' }}>OIerDb</h1>
+    <h1 style={{ textAlign: 'center' }}>OMerDb</h1>
     <p style={{ textAlign: 'center' }}>
-      OIerDb 是中国信息学竞赛选手的一个数据库
+    OMerDb 是中国数学竞赛选手的一个数据库
       <br />
-      <small>OIerDb is a database for Chinese OI participants</small>
+      <small>OMerDb is a database for Chinese OM participants</small>
     </p>
   </>
 );

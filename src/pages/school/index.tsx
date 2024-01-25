@@ -30,7 +30,7 @@ const SchoolList: React.FC = () => {
   return (
     <>
       <Helmet>
-        <title>{province}信息学奥林匹克竞赛学校排名</title>
+        <title>{province}数学奥林匹克竞赛学校排名</title>
       </Helmet>
 
       <h2 className={styles.header}>
@@ -51,7 +51,7 @@ const SchoolList: React.FC = () => {
           }
           className={styles.dropdown}
         />
-        <div>信息学奥林匹克竞赛学校排名</div>
+        <div>数学奥林匹克竞赛学校排名</div>
       </h2>
 
       <Table celled unstackable>
