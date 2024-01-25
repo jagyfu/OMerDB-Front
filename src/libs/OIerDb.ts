@@ -94,15 +94,11 @@ export interface OIerDbData {
 }
 
 const infoUrls = [
-  'https://oier.api.baoshuo.dev',
-  'https://oierdb-ng.github.io/OIerDb-data-generator',
+  'http://oi.yfyfj.net/db/',
 ];
 
 const urls = [
-  'https://sb.cdn.baoshuo.ren/oier',
-  'https://oier.cdn.baoshuo.dev',
-  'https://oier.api.baoshuo.dev',
-  'https://oierdb-ng.github.io/OIerDb-data-generator',
+  'http://oi.yfyfj.net/db/',
 ];
 
 let __DATA__: OIerDbData = null;
